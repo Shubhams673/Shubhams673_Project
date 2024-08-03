@@ -272,7 +272,7 @@ public class HomePage_Automation {
 		
 		Assert.assertEquals(trrpm.getText(),"$110700");
 		
-		System.out.println("Validation 2 is pass.");
+		System.out.println("Validation  2 is pass.");
 	}
 
 
