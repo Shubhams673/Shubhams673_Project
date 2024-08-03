@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-04T00:33:57 IST" name="Default suite" finished-at="2024-08-04T00:34:27 IST" duration-ms="30286">
+    <groups>
+    </groups>
+    <test started-at="2024-08-04T00:33:57 IST" name="Default test" finished-at="2024-08-04T00:34:27 IST" duration-ms="30286">
+      <class name="FitPeo_Task1.FitPeo_Task1.HomePage_Automation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:FitPeo_Task1.FitPeo_Task1.HomePage_Automation@3ce1e309]" started-at="2024-08-04T00:33:57 IST" name="setUp" finished-at="2024-08-04T00:34:05 IST" duration-ms="7607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Rev_Cal_Page()[pri:1, instance:FitPeo_Task1.FitPeo_Task1.HomePage_Automation@3ce1e309]" started-at="2024-08-04T00:34:05 IST" name="Rev_Cal_Page" finished-at="2024-08-04T00:34:17 IST" duration-ms="12125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rev_Cal_Page -->
+        <test-method signature="validation1()[pri:2, instance:FitPeo_Task1.FitPeo_Task1.HomePage_Automation@3ce1e309]" started-at="2024-08-04T00:34:17 IST" name="validation1" finished-at="2024-08-04T00:34:17 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation1 -->
+        <test-method signature="validation2()[pri:3, instance:FitPeo_Task1.FitPeo_Task1.HomePage_Automation@3ce1e309]" started-at="2024-08-04T00:34:17 IST" name="validation2" finished-at="2024-08-04T00:34:24 IST" duration-ms="7359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FitPeo_Task1.FitPeo_Task1.HomePage_Automation@3ce1e309]" started-at="2024-08-04T00:34:24 IST" name="tearDown" finished-at="2024-08-04T00:34:27 IST" duration-ms="3159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- FitPeo_Task1.FitPeo_Task1.HomePage_Automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
