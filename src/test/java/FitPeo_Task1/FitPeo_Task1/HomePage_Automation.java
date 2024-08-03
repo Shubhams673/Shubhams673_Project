@@ -19,7 +19,13 @@ public class HomePage_Automation {
 
 
 	/*
-	 * Task Details:
+	FitPeo Automation Tester Assessment.
+
+	Setup steps after, having the Code imported into Eclipss IDE.
+
+	Open the Maven Project and click on the POM.XML file from that project list itself, and add the Maven Dependencies for Selenium and TestNG.
+	
+  	* Task Details:
 		1. Navigate to the FitPeo Homepage:
 			1.1 Open the web browser and navigate to FitPeo Homepage.
 
